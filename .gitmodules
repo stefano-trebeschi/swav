@@ -1,0 +1,3 @@
+[submodule "Frida"]
+	path = Frida
+	url = https://github.com/nki-radiology/Frida.git
